@@ -1,5 +1,6 @@
 # NasaSpaceApp
-https://youtu.be/ThGkJ9uv_RM?si=WXn3_RPolOr_Z0Q2 uygulamamızı bu linkten izleyebilirsiniz
+uygulamamızı bu linkten izleyebilirsiniz:
+https://youtu.be/ThGkJ9uv_RM?si=WXn3_RPolOr_Z0Q2 
 
 <img width="406" height="921" alt="Image" src="https://github.com/user-attachments/assets/6eafe74c-c46f-43bb-b1a1-00de14a9d36c" />
 
