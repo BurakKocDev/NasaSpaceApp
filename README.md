@@ -2,6 +2,9 @@
 uygulama videosunu  bu linkten izleyebilirsiniz:
 https://youtu.be/VGwlgQTq9pI?si=GAC15O93Vgcfe1_V
 
+
+uygulamaya ait bazı fotoğraflar:
+
 <img width="406" height="921" alt="Image" src="https://github.com/user-attachments/assets/6eafe74c-c46f-43bb-b1a1-00de14a9d36c" />
 
 <img width="413" height="927" alt="Image" src="https://github.com/user-attachments/assets/08de5f3f-dc59-40de-a49c-09edcb40c61a" />
