@@ -1,6 +1,6 @@
 # NasaSpaceApp
 uygulama demo videosunu buradan izleyebilirsiniz:
-https://youtu.be/VGwlgQTq9pI?si=GAC15O93Vgcfe1_V
+https://youtu.be/sWxy0WPtT_A
 
 NASA’nın açık kaynak Kepler, TESS ve K2 verilerini kullanarak, yapay zekâ destekli bir modelle yeni ötegezegenlerin otomatik tespitini sağlamak.
 
